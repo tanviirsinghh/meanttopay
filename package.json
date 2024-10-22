@@ -1,5 +1,5 @@
 {
-  "name": "Meantopay",
+  "name": "meantopay",
   "private": true,
   "scripts": {
     "build": "turbo build",
